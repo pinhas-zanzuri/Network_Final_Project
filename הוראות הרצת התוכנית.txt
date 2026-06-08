@@ -1,0 +1,7 @@
+הרץ את הפקודות הבאות בסדר הבא:
+
+1. python prepare_media.py
+2. python dhcp_server.py  
+3. python dns_server.py
+4.  python app_server.py
+5.  python client.py
